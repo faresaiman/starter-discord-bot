@@ -184,4 +184,4 @@ for (const file of eventFiles) {
   }
 }
 
-client.login(process.env.TOKEN)
+client.login("NzE3Nzk4NjI1MDg2MDEzNDQw.GM0gdk.z9NSbK4enTa1mwZjlJzWGdh3uFVPBvE874sx2g")
